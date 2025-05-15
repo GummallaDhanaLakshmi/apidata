@@ -70,7 +70,7 @@
   {
     "idCategory": "12",
     "strCategory": "Veg Corn Pizza",
-    "strCategoryThumb": "https://img.freepik.com/free-photo/closeup-whole-delicious-pizza-with-melted-cheese-corn-onions-board_181624-46716.jpg",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/pizza-pizza-filled-with-tomatoes-salami-olives_140725-1200.jpg?semt=ais_hybrid&w=740",
     "price":"250"
   },
   {
@@ -88,7 +88,7 @@
   {
     "idCategory": "15",
     "strCategory": "Mushroom Pizza",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-mushroom-pizza-with-thyme_632498-24089.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/top-view-mushroom-pizza-with-tomato-sauce-cheese_140725-7083.jpg?semt=ais_hybrid&w=740",
     "price":"300"
   },
   {
@@ -100,19 +100,19 @@
   {
     "idCategory": "17",
     "strCategory": "Panner Tikka Pizza",
-    "strCategoryThumb": "https://img.freepik.com/premium-psd/paneer-tikka-pizza-isolated-transparent-background_838900-47605.jpg?w=360",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-apples-chili_2829-19992.jpg?semt=ais_hybrid&w=740",
     "price":"300"
   },
   {
     "idCategory": "18",
     "strCategory": "Veg Burger",
-    "strCategoryThumb": "https://img.freepik.com/premium-psd/delicious-veggie-burger-with-sesame-seed-bun-red-onion-microgreens-avocado-more_632498-29989.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/front-view-vegetarian-burger-counter-with-tomatoes_23-2148784525.jpg?semt=ais_hybrid&w=740",
     "price":"150"
   },
   {
     "idCategory": "19",
     "strCategory": "Crispy Chicken Burger",
-    "strCategoryThumb": "https://img.freepik.com/premium-photo/big-double-cheddar-cheeseburger-with-chicken-cutlet_147620-1306.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/crispy-chicken-burger_1312035-2515.jpg?semt=ais_hybrid&w=740",
     "price":"180"
   },
   {
@@ -136,7 +136,7 @@
   {
     "idCategory": "23",
     "strCategory": "Special Chicken Shawarma",
-    "strCategoryThumb": "https://www.themealdb.com/images/category/chicken.png",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/side-view-chicken-doner-with-greens-cucumber-tomato-sauce-cucumber-red-onion-pita-slice-lemon-board_141793-4824.jpg?semt=ais_hybrid&w=740",
     "price":"210"
   },
   {
@@ -172,7 +172,7 @@
   {
     "idCategory": "29",
     "strCategory": "Cheese Chiken Shawarma",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/halifax-donair-isolated-transparent-background_191095-32795.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/ultimate-chicken-shawarma-loaded-with-cheese-irresistible-sauce_1307444-4316.jpg",
     "price":"250"
   },
   {
@@ -190,13 +190,13 @@
   {
     "idCategory": "32",
     "strCategory": "Chocalate Cake",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-chocolate-birthday-cake-with-candles_632498-24980.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/delicious-chocolate-cake_23-2148858431.jpg",
     "price":"250"
   },
   {
     "idCategory": "33",
     "strCategory": "Pineapple Cake",
-    "strCategoryThumb": "https://img.freepik.com/premium-psd/pineapple-cake-isolated-transparent-background_220739-14137.jpg?w=360",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/delicious-pineapple-cake-freshly-baked-decorated-healthy-food-background_175994-93494.jpg?w=360",
     "price":"200"
   },
   {
@@ -214,32 +214,32 @@
   {
     "idCategory": "36",
     "strCategory": "Strawberry Cake",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-strawberry-cake-with-fresh-strawberries-isolated-transparent-background_191095-11705.jpg",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/strawberry-cake-red-powdered-sweet-delicious-round-grey-desk_140725-15033.jpg?semt=ais_hybrid&w=740",
     "price":"200"
   },
   {
     "idCategory": "37",
     "strCategory": "Chicken Noodles",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-chicken-vegetable-noodles-savory-stir-fry-asian-cuisine_84443-45737.jpg",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/chicken-noodles-popular-indo-chinese-dish-made-with-chicken-noodles-vegetables-served-rustic-wooden-background-selective-focus_726363-724.jpg",
     "price":"150"
   },
 
   {
     "idCategory": "38",
     "strCategory": "Veg Noodles",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-noodles-white-bowl-garnish-with-basil_632498-50764.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/veg-hakka-noodles-popular-oriental-dish-made-with-noodles-vegetables-served-rustic-wooden-background-selective-focus_726363-1111.jpg",
     "price":"120"
   },
   {
     "idCategory": "39",
     "strCategory": "Egg Noodles",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-spicy-noodles-black-bowl-tasty-asian-cuisine_84443-44657.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/high-angle-traditional-asian-meal-with-chopsticks_23-2148694371.jpg?semt=ais_hybrid&w=740",
     "price":"160"
   },
   {
     "idCategory": "40",
     "strCategory": "Veg Manchurian Noodles",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-beef-vegetable-stirfry-noodles-dark-bowl-transparent-background_84443-26564.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://foodoncall.co.in/wp-content/uploads/2017/10/manchurian-noodles.jpg",
     "price":"160"
   },
   {
@@ -275,7 +275,7 @@
   {
     "idCategory": "46",
     "strCategory": "Strawberry Icecream",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-raspberry-chocolate-ice-cream-sundae_632498-24987.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/strawberry-smoothie-with-tiny-waffle-chocolate-slices-strawberries-white-plate-dark-blue-surface_114579-33850.jpg?semt=ais_hybrid&w=740",
     "price":"70"
   },
   {
@@ -287,7 +287,7 @@
   {
     "idCategory": "48",
     "strCategory": "Banana Milkshake",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-milkshake-topped-with-whipped-cream-cherry_84443-42676.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/high-angle-delicious-banana-smoothie_23-2148858623.jpg?semt=ais_hybrid&w=740",
     "price":"60"
   },
   {
@@ -299,7 +299,7 @@
   {
     "idCategory": "50",
     "strCategory": "Strawberry Milkshake",
-    "strCategoryThumb": "https://img.freepik.com/premium-psd/delicious-strawberry-yogurt-parfait-with-chocolate-cookies_1270823-4058.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/glass-strawberry-milkshake-with-strawberries-strawberries-table_820340-12392.jpg",
     "price":"60"
   },
   {
