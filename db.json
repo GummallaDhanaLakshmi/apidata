@@ -4,19 +4,19 @@
   {
     "idCategory": "1",
     "strCategory": "chicken biryani",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-chicken-biryani-indian-cuisine-spicy-rice-dish_84443-34500.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/plate-food-with-noodles-meat-vegetables_1197144-525.jpg?semt=ais_hybrid&w=740",
     "price":"200"
   },
   {
     "idCategory": "2",
     "strCategory": "Dum Chicken",
-    "strCategoryThumb":"https://img.freepik.com/free-psd/delicious-chicken-biryani-indian-cuisine-spicy-rice-dish_84443-34500.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb":"https://img.freepik.com/premium-photo/indian-chicken-biryani-served-terracotta-bowl-with-yogurt-white-background-selective-focus_466689-72633.jpg",
     "price":"250"
   },
   {
     "idCategory": "3",
     "strCategory": "FryBit Biryani",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-chicken-biryani-rice-dish-spicy-flavorful-meal_84443-40848.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/plate-food-with-noodles-meat-vegetables_1197144-525.jpg?semt=ais_hybrid&w=740",
     "price":"300"
   },
   {
@@ -28,7 +28,7 @@
   {
     "idCategory": "5",
     "strCategory": "Mutton Biryani",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-lamb-shank-rice-bowl-aromatic-spices-flavorful-meal_84443-42609.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/mutton-lamb-biriyani-with-basmati-rice-served-bowl-moody-background_466689-72548.jpg",
     "price":"200"
   },
   {
@@ -46,19 +46,19 @@
   {
     "idCategory": "8",
     "strCategory": "Gongura Chicken Biryani",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/delicious-mutton-biryani-aromatic-rice-dish-indian-cuisine_84443-45803.jpg",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/plate-food-with-noodles-meat-vegetables_1197144-525.jpg?semt=ais_hybrid&w=740",
     "price":"250"
   },
   {
     "idCategory": "9",
     "strCategory": "Chicken Joint Biryani",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/grilled-chicken-lemon-cilantro-delicious-dish_84443-35403.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/premium-photo/table-with-plate-food-bowl-rice-chicken-it_867452-225.jpg",
     "price":"350"
   },
   {
     "idCategory": "10",
     "strCategory": "Bonelsess Chicken Biryani",
-    "strCategoryThumb": "https://img.freepik.com/free-psd/bowl-biryani-with-chicken-pieces-transparent-background_84443-1297.jpg?semt=ais_hybrid&w=740",
+    "strCategoryThumb": "https://img.freepik.com/free-photo/fried-chicken-with-variety-sauces-french-fries_23-2148646570.jpg?semt=ais_hybrid&w=740",
     "price":"450"
   },
   {
